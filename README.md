@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Riaz Bappy
 - 👀 I’m interested in ...JS
-- 🌱 I’m currently learning ...react
-- 💞️ I’m looking to collaborate on ...react project
+- 🌱 I’m currently learning ...nodejs
+- 💞️ I’m looking to collaborate on ...MERN project
 - 📫 How to reach me ...mdriazbappy22@gmail.com
 
 <!---
